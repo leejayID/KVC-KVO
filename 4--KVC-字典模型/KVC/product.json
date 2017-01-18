@@ -1,0 +1,32 @@
+{
+    "product":
+            {
+              "name": "手机",
+              "categoryList": [
+                               {
+                               "name": "iPhone",
+                               "id": "1",
+                               "price": "100.03",
+                               "image": "www.iPhone.com"
+                               },
+                               {
+                               "name": "三星",
+                               "id": "2",
+                               "price": "80",
+                               "image": "www.samsung.com"
+                               },
+                               {
+                               "name": "小米",
+                               "id": "3",
+                               "price": "60",
+                               "image": "www.xiaomi.com"
+                               },
+                               {
+                               "name": "华为",
+                               "id": "4",
+                               "price": "40.5",
+                               "image": "www.huawei.com"
+                               }
+                               ]
+            }
+}
